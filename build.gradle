@@ -18,7 +18,7 @@ java {
 
 application {
     // Entry point is the Swing dialog class with main()
-    mainClass = 'illgner.ch.tantrix.GameDialog'
+    mainClass = 'illgner.ch.hexatiles.GameDialog'
 }
 
 tasks.withType(JavaCompile).configureEach {
@@ -29,7 +29,7 @@ tasks.withType(JavaCompile).configureEach {
 tasks.named('jar') {
     manifest {
         attributes(
-                'Main-Class': 'illgner.ch.tantrix.GameDialog'
+                'Main-Class': 'illgner.ch.hexatiles.GameDialog'
         )
     }
 }

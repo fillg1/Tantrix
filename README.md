@@ -47,7 +47,7 @@ java -jar build/libs/HexaTiles.jar
 ## Project Structure
 
 ```
-src/main/java/illgner/ch/tantrix/
+src/main/java/illgner/ch/hexatiles/
 ├── Board.java       # Hexagonal grid management
 ├── Color.java       # Color enumeration
 ├── Coordinate.java  # Hexagonal coordinate system

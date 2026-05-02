@@ -1,4 +1,4 @@
-package illgner.ch.tantrix;
+package illgner.ch.hexatiles;
 
 import javax.swing.*;
 import java.awt.*;

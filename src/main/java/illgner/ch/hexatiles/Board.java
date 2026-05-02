@@ -1,4 +1,4 @@
-package illgner.ch.tantrix;
+package illgner.ch.hexatiles;
 
 import java.awt.Graphics2D;
 import java.util.Collection;
